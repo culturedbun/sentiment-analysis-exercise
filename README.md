@@ -1,5 +1,3 @@
-This repository contains codes for a fun exercise I did back in May 2013.
-
 In this exercise, we will
 
 - access the Twitter API using Python
